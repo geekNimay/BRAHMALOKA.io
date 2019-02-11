@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+      <link rel="shortcut icon" href="images/earth2.png"  type="image/x-icon"> 
+    
+   <meta charset="UTF-8">
+    <title>Брахмалока.ру</title>
+    <style>
+    h1 {
+        color: rgb(212, 0, 654) ;
+    }
+    body {
+        width: 1000px;
+            margin: auto;
+            border: 3px solid rgb(145, 0, 0);
+            border-top: 10px solid purple;
+            padding: 50px;
+            text-align: center;
+            background-color: rgba(86, 181, 214, 1)
+    }
+    a {
+        text-decoration: none;
+        color:rgb(212, 0, 654); /* Цвет текста */
+    background: #ffc; /* Цвет фона */
+    padding: 2px; /* Поля вокруг текста */
+    transition: 0.5s linear; /* Время изменения */
+   }
+   a:hover {
+    color: #fff; /* Цвет текста */
+    background: #008; /* Цвет фона */
+   }
+
+    
+
+        
+    </style>
+    <body>
+        <h1>О чем этот сайт?</h1>
+        <h3> <a href="D:\OpenServer\domains\BRAHMALOKA.ru\razrab.html" target="_blank">Разработчики</a>
+        <a href="2glav.html" target="_blank">Главная</a></h3>
+
+        
+        
+    </body>  
+</html>
